@@ -51,7 +51,7 @@
   },
   "body": {
     "bio": {
-      "@value": "I am here to represent the artists, writers, musicians, and creative intellects of the Cardano ecosystem in tandem with devs, builders, and educators."
+      "@value": "I am a Cardano lover."
     },
     "dRepName": {
       "@value": "El_Cryptonaut"
@@ -59,25 +59,6 @@
     "email": {
       "@value": "elthecryptonaut@gmail.com"
     },
-    "references": [
-      {
-        "@type": "Other",
-        "CIPQQQ:reference-label": {
-          "@value": "Label"
-        },
-        "CIPQQQ:reference-uri": {
-          "@value": "https://www.linkedin.com/in/elcryptonaut/"
-        }
-      },
-      {
-        "@type": "Other",
-        "CIPQQQ:reference-label": {
-          "@value": "Label"
-        },
-        "CIPQQQ:reference-uri": {
-          "@value": "https://x.com/ElCryptonaut"
-        }
-      }
-    ]
+    "references": []
   }
 }
